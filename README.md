@@ -2,7 +2,7 @@
 
 # SQL-solo-project
 
-> This are my solutions to the Tutorials 0-9 listed under the “Tutorial Section” and the quizzes at the SQL Zoo WebPage.
+> This are my solutions to the Tutorials 0-9 listed under the “Tutorial Section” SQL Zoo WebPage.
 
 The first tutorial is the “Select” tutorial. Make sure the dropdown on the upper right of the main page for “Engine” says “MySQL” (the default). Large results will be cut off and not all rows or columns shown, so the “answers” may not look 100% correct.
 
